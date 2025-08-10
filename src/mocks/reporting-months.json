@@ -1,0 +1,232 @@
+{
+    "count": 36,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 1,
+            "name": "Август 2014",
+            "value": "2014-08",
+            "year": 2014,
+            "month": 8,
+            "is_active": true,
+            "slider_value": 50
+        },
+        {
+            "id": 2,
+            "name": "Сентябрь 2014",
+            "value": "2014-09",
+            "year": 2014,
+            "month": 9,
+            "is_active": true,
+            "slider_value": 60
+        },
+        {
+            "id": 3,
+            "name": "Октябрь 2014",
+            "value": "2014-10",
+            "year": 2014,
+            "month": 10,
+            "is_active": true,
+            "slider_value": 75
+        },
+        {
+            "id": 4,
+            "name": "Ноябрь 2014",
+            "value": "2014-11",
+            "year": 2014,
+            "month": 11,
+            "is_active": true,
+            "slider_value": 80
+        },
+        {
+            "id": 5,
+            "name": "Декабрь 2014",
+            "value": "2014-12",
+            "year": 2014,
+            "month": 12,
+            "is_active": true,
+            "slider_value": 90
+        },
+        {
+            "id": 6,
+            "name": "Январь 2015",
+            "value": "2015-01",
+            "year": 2015,
+            "month": 1,
+            "is_active": true,
+            "slider_value": 20
+        },
+        {
+            "id": 7,
+            "name": "Февраль 2015",
+            "value": "2015-02",
+            "year": 2015,
+            "month": 2,
+            "is_active": true,
+            "slider_value": 30
+        },
+        {
+            "id": 8,
+            "name": "Март 2015",
+            "value": "2015-03",
+            "year": 2015,
+            "month": 3,
+            "is_active": true,
+            "slider_value": 40
+        },
+        {
+            "id": 9,
+            "name": "Апрель 2015",
+            "value": "2015-04",
+            "year": 2015,
+            "month": 4,
+            "is_active": true,
+            "slider_value": 50
+        },
+        {
+            "id": 10,
+            "name": "Май 2015",
+            "value": "2015-05",
+            "year": 2015,
+            "month": 5,
+            "is_active": true,
+            "slider_value": 60
+        },
+        {
+            "id": 11,
+            "name": "Июнь 2015",
+            "value": "2015-06",
+            "year": 2015,
+            "month": 6,
+            "is_active": true,
+            "slider_value": 70
+        },
+        {
+            "id": 12,
+            "name": "Июль 2015",
+            "value": "2015-07",
+            "year": 2015,
+            "month": 7,
+            "is_active": true,
+            "slider_value": 80
+        },
+        {
+            "id": 13,
+            "name": "Август 2015",
+            "value": "2015-08",
+            "year": 2015,
+            "month": 8,
+            "is_active": true,
+            "slider_value": 90
+        },
+        {
+            "id": 14,
+            "name": "Сентябрь 2015",
+            "value": "2015-09",
+            "year": 2015,
+            "month": 9,
+            "is_active": true,
+            "slider_value": 100
+        },
+        {
+            "id": 15,
+            "name": "Октябрь 2015",
+            "value": "2015-10",
+            "year": 2015,
+            "month": 10,
+            "is_active": true,
+            "slider_value": 10
+        },
+        {
+            "id": 16,
+            "name": "Ноябрь 2015",
+            "value": "2015-11",
+            "year": 2015,
+            "month": 11,
+            "is_active": true,
+            "slider_value": 20
+        },
+        {
+            "id": 17,
+            "name": "Декабрь 2015",
+            "value": "2015-12",
+            "year": 2015,
+            "month": 12,
+            "is_active": true,
+            "slider_value": 30
+        },
+        {
+            "id": 18,
+            "name": "Январь 2016",
+            "value": "2016-01",
+            "year": 2016,
+            "month": 1,
+            "is_active": true,
+            "slider_value": 40
+        },
+        {
+            "id": 19,
+            "name": "Февраль 2016",
+            "value": "2016-02",
+            "year": 2016,
+            "month": 2,
+            "is_active": true,
+            "slider_value": 50
+        },
+        {
+            "id": 20,
+            "name": "Март 2016",
+            "value": "2016-03",
+            "year": 2016,
+            "month": 3,
+            "is_active": true,
+            "slider_value": 60
+        },
+        {
+            "id": 21,
+            "name": "Апрель 2016",
+            "value": "2016-04",
+            "year": 2016,
+            "month": 4,
+            "is_active": true,
+            "slider_value": 70
+        },
+        {
+            "id": 22,
+            "name": "Май 2016",
+            "value": "2016-05",
+            "year": 2016,
+            "month": 5,
+            "is_active": true,
+            "slider_value": 80
+        },
+        {
+            "id": 23,
+            "name": "Июнь 2016",
+            "value": "2016-06",
+            "year": 2016,
+            "month": 6,
+            "is_active": true,
+            "slider_value": 90
+        },
+        {
+            "id": 24,
+            "name": "Июль 2016",
+            "value": "2016-07",
+            "year": 2016,
+            "month": 7,
+            "is_active": true,
+            "slider_value": 90
+        },
+        {
+            "id": 25,
+            "name": "Август 2016",
+            "value": "2016-08",
+            "year": 2016,
+            "month": 8,
+            "is_active": true,
+            "slider_value": 50
+        }
+    ]
+}
